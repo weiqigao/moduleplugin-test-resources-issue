@@ -1,0 +1,1 @@
+# moduleplugin-test-resources-issue
